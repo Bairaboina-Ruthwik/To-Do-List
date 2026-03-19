@@ -39,3 +39,6 @@ To-Do-List/
 git clone https://github.com/your-username/To-Do-List.git
 cd To-Do-List
 python todo.py
+```
+## Author
+Bairaboina Ruthwik
