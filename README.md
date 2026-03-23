@@ -42,3 +42,7 @@ python todo.py
 ```
 ## Author
 Bairaboina Ruthwik
+
+## 📜 License
+
+This project is open-source and free to use.
